@@ -1,0 +1,11 @@
+name: parte1_dart
+description: >-
+  Trabalho do 1º Bimestre - Parte 1 (Dart puro). Domínio: playlist de
+  músicas, modelado com herança, composição e encapsulamento.
+version: 1.0.0
+
+environment:
+  sdk: ^3.12.2
+
+dev_dependencies:
+  lints: ^6.0.0
