@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "parte2_flutter_web",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "cd /d parte2_flutter && flutter run -d chrome --web-port 5432"
+      ],
+      "port": 5432
+    }
+  ]
+}
